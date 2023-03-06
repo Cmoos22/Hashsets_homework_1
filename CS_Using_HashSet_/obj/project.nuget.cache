@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OdD3/tfYrh1pxlsuq4JuEfX+Jj+bB+lzJ1/lJI967xHxO/8FFtrXwe/3UU8VZQ82lUUWx2U/uUzLnPnSlaTmmQ==",
+  "success": true,
+  "projectFilePath": "/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/CS_Using_HashSet_.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlamoos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/carlamoos/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/carlamoos/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
