@@ -1,0 +1,14 @@
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/obj/Debug/netcoreapp3.1/CS_Using_HashSet_.csproj.AssemblyReference.cache
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/obj/Debug/netcoreapp3.1/CS_Using_HashSet_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/obj/Debug/netcoreapp3.1/CS_Using_HashSet_.AssemblyInfoInputs.cache
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/obj/Debug/netcoreapp3.1/CS_Using_HashSet_.AssemblyInfo.cs
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/obj/Debug/netcoreapp3.1/CS_Using_HashSet_.csproj.CoreCompileInputs.cache
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/bin/Debug/netcoreapp3.1/CS_Using_HashSet_
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/bin/Debug/netcoreapp3.1/CS_Using_HashSet_.deps.json
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/bin/Debug/netcoreapp3.1/CS_Using_HashSet_.runtimeconfig.json
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/bin/Debug/netcoreapp3.1/CS_Using_HashSet_.runtimeconfig.dev.json
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/bin/Debug/netcoreapp3.1/CS_Using_HashSet_.dll
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/bin/Debug/netcoreapp3.1/CS_Using_HashSet_.pdb
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/obj/Debug/netcoreapp3.1/CS_Using_HashSet_.dll
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/obj/Debug/netcoreapp3.1/CS_Using_HashSet_.pdb
+/Users/carlamoos/Desktop/2. semester /Programming /Homework 2. semester/Hashsets_homework_1/CS_Using_HashSet_/obj/Debug/netcoreapp3.1/CS_Using_HashSet_.genruntimeconfig.cache
