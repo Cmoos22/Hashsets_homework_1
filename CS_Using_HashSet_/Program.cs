@@ -8,38 +8,41 @@ namespace CS_Using_HashSet_
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Using HashSet");
-            ////1. Defining String Array (Note that the string "mahesh" is repeated) 
-            //string[] names = new string[] {
-            //    "mahesh",
-            //    "vikram",
-            //    "mahesh",
-            //    "mayur",
-            //    "suprotim",
-            //    "saket",
-            //    "manish"
-            //};
-            ////2. Length of Array and Printing array
-            //Console.WriteLine("Length of Array " + names.Length);
-            //Console.WriteLine();
-            //Console.WriteLine("The Data in Array");
-            //foreach (var n in names)
-            //{
-            //    Console.WriteLine(n);
-            //}
+            Console.WriteLine("Using HashSet");
+            //1. Defining String Array (Note that the string "mahesh" is repeated) 
+            string[] names = new string[] {
+                "mahesh",
+                "vikram",
+                "mahesh",
+                "mayur",
+                "suprotim",
+                "saket",
+                "manish"
+            };
+            //2. Length of Array and Printing array
+            Console.WriteLine("Length of Array " + names.Length);
+            Console.WriteLine();
+            Console.WriteLine("The Data in Array");
+            foreach (var n in names)
+            {
+                Console.WriteLine(n);
+            }
 
-            //Console.WriteLine();
-            ////3. Defining HashSet by passing an Array of string to it
-            //HashSet<string> hSet = new HashSet<string>(names);
-            ////4. Count of Elements in HashSet
-            //Console.WriteLine("Count of Data in HashSet " + hSet.Count);
-            //Console.WriteLine();
-            ////5. Printing Data in HashSet, this will eliminate duplication of "mahesh" 
-            //Console.WriteLine("Data in HashSet");
-            //foreach (var n in hSet)
-            //{
-            //    Console.WriteLine(n);
-            //}
+            Console.WriteLine();
+            //3. Defining HashSet by passing an Array of string to it
+            HashSet<string> hSet = new HashSet<string>(names);
+            //4. Count of Elements in HashSet
+            Console.WriteLine("Count of Data in HashSet " + hSet.Count);
+            Console.WriteLine();
+            //5. Printing Data in HashSet, this will eliminate duplication of "mahesh" 
+            Console.WriteLine("Data in HashSet");
+            foreach (var n in hSet)
+            {
+                Console.WriteLine(n);
+            }
+            // I had to delete Console.ReadLine();  to be able to print section 3 also else it just prints until line 42
+            // NOTE I  did not undestand why Looked it up link: https://www.geeksforgeeks.org/console-readline-method-in-c-sharp/
+            // it just hides the awenser until you press enter - but for ease of use I will comment it out 
             //Console.ReadLine();
             string[] names1 = new string[] {
              "mahesh","sabnis","manish","sharma","saket","karnik"
